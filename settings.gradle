@@ -1,0 +1,3 @@
+//include ':app', ':library', ':library-orm', ':datetimerpicker', ':app1', ':app2', ':DroidPlugin', ':explosison', ':explosionfield'
+include ':bypass', ':mythirdparty'
+include ':plaid'
