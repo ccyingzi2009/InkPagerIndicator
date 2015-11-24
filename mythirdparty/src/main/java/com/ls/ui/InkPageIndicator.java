@@ -154,6 +154,7 @@ public class InkPageIndicator extends View implements ViewPager.OnPageChangeList
         if (mViewPager == null || mPageCount == 0) {
             return;
         }
+
         drawSelected(canvas);
     }
 
